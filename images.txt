@@ -2,5 +2,6 @@ mysql:8.0
 redis:7.0
 mongo:6.0
 emqx/emqx:5.8
+alpine:3.18
 willfarrell/autoheal:latest
 mpromonet/webrtc-streamer
